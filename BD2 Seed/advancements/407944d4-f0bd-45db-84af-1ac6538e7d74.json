@@ -1,7 +1,32 @@
 {
-  "minecraft:recipes/building_blocks/quartz_pillar": {
+  "minecraft:adventure/adventuring_time": {
     "criteria": {
-      "has_quartz_block": "2023-02-28 11:40:34 -0500"
+      "minecraft:old_growth_pine_taiga": "2023-02-22 12:41:44 -0500",
+      "minecraft:taiga": "2023-02-22 12:37:06 -0500",
+      "minecraft:sunflower_plains": "2023-02-22 12:34:06 -0500",
+      "minecraft:birch_forest": "2023-02-22 12:43:40 -0500",
+      "minecraft:beach": "2023-02-22 12:33:02 -0500",
+      "minecraft:dark_forest": "2023-02-22 12:43:58 -0500",
+      "minecraft:river": "2023-02-22 12:37:54 -0500",
+      "minecraft:dripstone_caves": "2023-02-25 18:00:40 -0500",
+      "minecraft:forest": "2023-02-22 12:37:05 -0500",
+      "minecraft:flower_forest": "2023-02-22 12:37:51 -0500",
+      "minecraft:old_growth_birch_forest": "2023-02-22 12:43:48 -0500",
+      "minecraft:meadow": "2023-02-22 12:37:46 -0500",
+      "minecraft:savanna": "2023-02-22 12:32:54 -0500",
+      "minecraft:plains": "2023-02-22 12:37:30 -0500"
+    },
+    "done": false
+  },
+  "minecraft:recipes/misc/book": {
+    "criteria": {
+      "has_paper": "2023-02-22 12:35:07 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/cartography_table": {
+    "criteria": {
+      "has_paper": "2023-02-22 12:35:07 -0500"
     },
     "done": true
   },
@@ -11,9 +36,75 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/birch_boat": {
+    "criteria": {
+      "in_water": "2023-02-22 12:37:05 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/mangrove_boat": {
+    "criteria": {
+      "in_water": "2023-02-22 12:37:05 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/acacia_boat": {
+    "criteria": {
+      "in_water": "2023-02-22 12:37:05 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/oak_boat": {
+    "criteria": {
+      "in_water": "2023-02-22 12:37:05 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/jungle_boat": {
+    "criteria": {
+      "in_water": "2023-02-22 12:37:05 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/spruce_boat": {
+    "criteria": {
+      "in_water": "2023-02-22 12:37:05 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/map": {
+    "criteria": {
+      "has_compass": "2023-02-23 09:42:01 -0500"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/glow_item_frame": {
     "criteria": {
       "has_item_frame": "2023-02-23 09:42:52 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/chest": {
+    "criteria": {
+      "has_lots_of_items": "2023-02-23 12:44:53 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/yellow_dye_from_sunflower": {
+    "criteria": {
+      "has_sunflower": "2023-02-25 17:44:15 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/yellow_dye_from_dandelion": {
+    "criteria": {
+      "has_dandelion": "2023-02-25 17:53:45 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/quartz_pillar": {
+    "criteria": {
+      "has_quartz_block": "2023-02-28 11:40:34 -0500"
     },
     "done": true
   },
@@ -35,46 +126,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/yellow_dye_from_sunflower": {
-    "criteria": {
-      "has_sunflower": "2023-02-25 17:44:15 -0500"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/quartz_slab_from_stonecutting": {
     "criteria": {
       "has_quartz_block": "2023-02-28 11:40:34 -0500"
     },
     "done": true
   },
-  "minecraft:adventure/adventuring_time": {
-    "criteria": {
-      "minecraft:old_growth_pine_taiga": "2023-02-22 12:41:44 -0500",
-      "minecraft:taiga": "2023-02-22 12:37:06 -0500",
-      "minecraft:sunflower_plains": "2023-02-22 12:34:06 -0500",
-      "minecraft:birch_forest": "2023-02-22 12:43:40 -0500",
-      "minecraft:beach": "2023-02-22 12:33:02 -0500",
-      "minecraft:dark_forest": "2023-02-22 12:43:58 -0500",
-      "minecraft:river": "2023-02-22 12:37:54 -0500",
-      "minecraft:dripstone_caves": "2023-02-25 18:00:40 -0500",
-      "minecraft:forest": "2023-02-22 12:37:05 -0500",
-      "minecraft:flower_forest": "2023-02-22 12:37:51 -0500",
-      "minecraft:old_growth_birch_forest": "2023-02-22 12:43:48 -0500",
-      "minecraft:meadow": "2023-02-22 12:37:46 -0500",
-      "minecraft:savanna": "2023-02-22 12:32:54 -0500",
-      "minecraft:plains": "2023-02-22 12:37:30 -0500"
-    },
-    "done": false
-  },
   "minecraft:recipes/building_blocks/chiseled_quartz_block": {
     "criteria": {
       "has_quartz_block": "2023-02-28 11:40:34 -0500"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/book": {
-    "criteria": {
-      "has_paper": "2023-02-22 12:35:07 -0500"
     },
     "done": true
   },
@@ -84,39 +144,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/map": {
-    "criteria": {
-      "has_compass": "2023-02-23 09:42:01 -0500"
-    },
-    "done": true
-  },
-  "minecraft:recipes/transportation/birch_boat": {
-    "criteria": {
-      "in_water": "2023-02-22 12:37:05 -0500"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/chest": {
-    "criteria": {
-      "has_lots_of_items": "2023-02-23 12:44:53 -0500"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/smooth_quartz": {
     "criteria": {
       "has_quartz_block": "2023-02-28 11:40:34 -0500"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/cartography_table": {
-    "criteria": {
-      "has_paper": "2023-02-22 12:35:07 -0500"
-    },
-    "done": true
-  },
-  "minecraft:recipes/transportation/mangrove_boat": {
-    "criteria": {
-      "in_water": "2023-02-22 12:37:05 -0500"
     },
     "done": true
   },
@@ -132,41 +162,161 @@
     },
     "done": true
   },
-  "minecraft:recipes/transportation/acacia_boat": {
-    "criteria": {
-      "in_water": "2023-02-22 12:37:05 -0500"
-    },
-    "done": true
-  },
-  "minecraft:recipes/transportation/oak_boat": {
-    "criteria": {
-      "in_water": "2023-02-22 12:37:05 -0500"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/quartz_bricks": {
     "criteria": {
       "has_quartz_block": "2023-02-28 11:40:34 -0500"
     },
     "done": true
   },
-  "minecraft:recipes/transportation/jungle_boat": {
+  "minecraft:recipes/decorations/crafting_table": {
     "criteria": {
-      "in_water": "2023-02-22 12:37:05 -0500"
+      "unlock_right_away": "2023-07-27 11:57:09 -0400"
     },
     "done": true
   },
-  "minecraft:recipes/misc/yellow_dye_from_dandelion": {
+  "minecraft:recipes/transportation/detector_rail": {
     "criteria": {
-      "has_dandelion": "2023-02-25 17:53:45 -0500"
+      "has_rail": "2023-07-27 12:12:31 -0400"
     },
     "done": true
   },
-  "minecraft:recipes/transportation/spruce_boat": {
+  "minecraft:recipes/transportation/activator_rail": {
     "criteria": {
-      "in_water": "2023-02-22 12:37:05 -0500"
+      "has_rail": "2023-07-27 12:12:31 -0400"
     },
     "done": true
   },
-  "DataVersion": 3218
+  "minecraft:recipes/transportation/powered_rail": {
+    "criteria": {
+      "has_rail": "2023-07-27 12:12:31 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/chest_minecart": {
+    "criteria": {
+      "has_minecart": "2023-07-27 12:13:19 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/furnace_minecart": {
+    "criteria": {
+      "has_minecart": "2023-07-27 12:13:19 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/hopper_minecart": {
+    "criteria": {
+      "has_minecart": "2023-07-27 12:13:19 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/tnt_minecart": {
+    "criteria": {
+      "has_minecart": "2023-07-27 12:13:19 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/rail": {
+    "criteria": {
+      "has_minecart": "2023-07-27 12:13:19 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/repeater": {
+    "criteria": {
+      "has_redstone_torch": "2023-07-27 12:13:48 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/lever": {
+    "criteria": {
+      "has_cobblestone": "2023-07-27 12:14:43 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/stone_sword": {
+    "criteria": {
+      "has_cobblestone": "2023-07-27 12:14:43 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/cobblestone_wall": {
+    "criteria": {
+      "has_cobblestone": "2023-07-27 12:14:43 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/stone_pickaxe": {
+    "criteria": {
+      "has_cobblestone": "2023-07-27 12:14:43 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/stone_axe": {
+    "criteria": {
+      "has_cobblestone": "2023-07-27 12:14:43 -0400"
+    },
+    "done": true
+  },
+  "minecraft:story/mine_stone": {
+    "criteria": {
+      "get_stone": "2023-07-27 12:14:43 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/furnace": {
+    "criteria": {
+      "has_cobblestone": "2023-07-27 12:14:43 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cobblestone_slab": {
+    "criteria": {
+      "has_cobblestone": "2023-07-27 12:14:43 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cobblestone_slab_from_cobblestone_stonecutting": {
+    "criteria": {
+      "has_cobblestone": "2023-07-27 12:14:43 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone": {
+    "criteria": {
+      "has_cobblestone": "2023-07-27 12:14:43 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/cobblestone_wall_from_cobblestone_stonecutting": {
+    "criteria": {
+      "has_cobblestone": "2023-07-27 12:14:43 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cobblestone_stairs_from_cobblestone_stonecutting": {
+    "criteria": {
+      "has_cobblestone": "2023-07-27 12:14:43 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cobblestone_stairs": {
+    "criteria": {
+      "has_cobblestone": "2023-07-27 12:14:43 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/stone_hoe": {
+    "criteria": {
+      "has_cobblestone": "2023-07-27 12:14:43 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/stone_shovel": {
+    "criteria": {
+      "has_cobblestone": "2023-07-27 12:14:43 -0400"
+    },
+    "done": true
+  },
+  "DataVersion": 3465
 }
