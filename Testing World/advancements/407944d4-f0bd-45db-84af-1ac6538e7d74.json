@@ -3349,5 +3349,17 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/lapis_lazuli_from_smelting_deepslate_lapis_ore": {
+    "criteria": {
+      "has_deepslate_lapis_ore": "2023-09-21 10:34:03 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/lapis_lazuli_from_blasting_deepslate_lapis_ore": {
+    "criteria": {
+      "has_deepslate_lapis_ore": "2023-09-21 10:34:03 -0400"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
