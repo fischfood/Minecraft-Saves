@@ -3452,6 +3452,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/cyan_dye_from_pitcher_plant": {
+    "criteria": {
+      "has_pitcher_plant": "2023-09-28 01:00:09 -0400"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/baked_potato_from_campfire_cooking": {
     "criteria": {
       "has_potato": "2023-09-28 01:08:14 -0400"
@@ -3467,12 +3473,6 @@
   "minecraft:recipes/food/baked_potato": {
     "criteria": {
       "has_potato": "2023-09-28 01:08:14 -0400"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/cyan_dye_from_pitcher_plant": {
-    "criteria": {
-      "has_pitcher_plant": "2023-09-28 01:00:09 -0400"
     },
     "done": true
   },
