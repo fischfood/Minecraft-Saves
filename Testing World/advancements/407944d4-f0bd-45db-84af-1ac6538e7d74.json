@@ -614,6 +614,7 @@
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "cooked_chicken": "2020-03-06 17:04:54 -0500",
+      "potato": "2023-09-28 01:08:17 -0400",
       "baked_potato": "2023-06-13 09:29:38 -0400"
     },
     "done": false
@@ -3367,45 +3368,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/food/cooked_chicken_from_campfire_cooking": {
+  "minecraft:recipes/food/cooked_beef": {
     "criteria": {
-      "has_chicken": "2023-09-27 20:58:49 -0400"
+      "has_beef": "2023-09-27 20:49:51 -0400"
     },
     "done": true
   },
-  "minecraft:recipes/food/cooked_mutton_from_smoking": {
+  "minecraft:recipes/food/cooked_beef_from_campfire_cooking": {
     "criteria": {
-      "has_mutton": "2023-09-27 21:08:02 -0400"
-    },
-    "done": true
-  },
-  "minecraft:recipes/food/cooked_porkchop": {
-    "criteria": {
-      "has_porkchop": "2023-09-27 20:58:57 -0400"
-    },
-    "done": true
-  },
-  "minecraft:recipes/food/cooked_chicken": {
-    "criteria": {
-      "has_chicken": "2023-09-27 20:58:49 -0400"
-    },
-    "done": true
-  },
-  "minecraft:recipes/food/cooked_mutton": {
-    "criteria": {
-      "has_mutton": "2023-09-27 21:08:02 -0400"
-    },
-    "done": true
-  },
-  "minecraft:recipes/food/cooked_chicken_from_smoking": {
-    "criteria": {
-      "has_chicken": "2023-09-27 20:58:49 -0400"
-    },
-    "done": true
-  },
-  "minecraft:recipes/food/cooked_mutton_from_campfire_cooking": {
-    "criteria": {
-      "has_mutton": "2023-09-27 21:08:02 -0400"
+      "has_beef": "2023-09-27 20:49:51 -0400"
     },
     "done": true
   },
@@ -3415,9 +3386,33 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/mangrove_wood": {
+  "minecraft:recipes/food/pumpkin_pie": {
     "criteria": {
-      "has_log": "2023-09-27 22:12:17 -0400"
+      "has_pumpkin": "2023-09-27 20:58:27 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_chicken_from_campfire_cooking": {
+    "criteria": {
+      "has_chicken": "2023-09-27 20:58:49 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_chicken": {
+    "criteria": {
+      "has_chicken": "2023-09-27 20:58:49 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_chicken_from_smoking": {
+    "criteria": {
+      "has_chicken": "2023-09-27 20:58:49 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_porkchop": {
+    "criteria": {
+      "has_porkchop": "2023-09-27 20:58:57 -0400"
     },
     "done": true
   },
@@ -3433,21 +3428,57 @@
     },
     "done": true
   },
-  "minecraft:recipes/food/cooked_beef": {
+  "minecraft:recipes/food/cooked_mutton_from_smoking": {
     "criteria": {
-      "has_beef": "2023-09-27 20:49:51 -0400"
+      "has_mutton": "2023-09-27 21:08:02 -0400"
     },
     "done": true
   },
-  "minecraft:recipes/food/pumpkin_pie": {
+  "minecraft:recipes/food/cooked_mutton": {
     "criteria": {
-      "has_pumpkin": "2023-09-27 20:58:27 -0400"
+      "has_mutton": "2023-09-27 21:08:02 -0400"
     },
     "done": true
   },
-  "minecraft:recipes/food/cooked_beef_from_campfire_cooking": {
+  "minecraft:recipes/food/cooked_mutton_from_campfire_cooking": {
     "criteria": {
-      "has_beef": "2023-09-27 20:49:51 -0400"
+      "has_mutton": "2023-09-27 21:08:02 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mangrove_wood": {
+    "criteria": {
+      "has_log": "2023-09-27 22:12:17 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/baked_potato_from_campfire_cooking": {
+    "criteria": {
+      "has_potato": "2023-09-28 01:08:14 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/baked_potato_from_smoking": {
+    "criteria": {
+      "has_potato": "2023-09-28 01:08:14 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/baked_potato": {
+    "criteria": {
+      "has_potato": "2023-09-28 01:08:14 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/cyan_dye_from_pitcher_plant": {
+    "criteria": {
+      "has_pitcher_plant": "2023-09-28 01:00:09 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/black_dye_from_wither_rose": {
+    "criteria": {
+      "has_wither_rose": "2023-09-28 02:49:52 -0400"
     },
     "done": true
   },
