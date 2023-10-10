@@ -3578,5 +3578,11 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/raw_gold": {
+    "criteria": {
+      "has_raw_gold_block": "2023-10-10 15:36:44 -0400"
+    },
+    "done": true
+  },
   "DataVersion": 3578
 }
