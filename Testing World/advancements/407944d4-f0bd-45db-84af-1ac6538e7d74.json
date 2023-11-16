@@ -3902,5 +3902,11 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_andesite": {
+    "criteria": {
+      "has_andesite": "2023-11-16 14:46:29 -0500"
+    },
+    "done": true
+  },
   "DataVersion": 3578
 }
