@@ -613,6 +613,7 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
+      "cooked_porkchop": "2023-11-17 13:51:34 -0500",
       "cooked_chicken": "2020-03-06 17:04:54 -0500",
       "potato": "2023-09-28 01:08:17 -0400",
       "baked_potato": "2023-06-13 09:29:38 -0400"
@@ -4127,6 +4128,18 @@
   "minecraft:recipes/building_blocks/polished_deepslate_stairs_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2023-11-17 13:36:22 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/emerald_from_smelting_deepslate_emerald_ore": {
+    "criteria": {
+      "has_deepslate_emerald_ore": "2023-11-17 13:57:06 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/emerald_from_blasting_deepslate_emerald_ore": {
+    "criteria": {
+      "has_deepslate_emerald_ore": "2023-11-17 13:57:06 -0500"
     },
     "done": true
   },
